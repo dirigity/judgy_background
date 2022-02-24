@@ -56,9 +56,11 @@ const take_pic = async () => {
 }
 
 const loop = async () => {
-    await take_pic();
-    console.log("posting wallpaper")
-    await setWallpaper('screenshot.png');
+    try {
+        await take_pic();
+        console.log("posting wallpaper")
+        await setWallpaper('screenshot.png');
+    } catch (e) { }
 }
 
 loop();
