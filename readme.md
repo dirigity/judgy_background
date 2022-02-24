@@ -30,4 +30,4 @@ node index.js
 
 ## ⚠️ disclaimer ⚠️
 
-Personalmente no voy a usar este programa, y no recomendaría su uso tampoco. El juez lo hostea gratuitamente una empresa externa a la UCM (creo), por lo que es responsabilidad de todos hacer un uso responsable. Osea, el objetivo del programa era trastear con puppeteer un poco, y el código lo subo para que sirva de ejemplo de uso del módulo a mi y a otros programadores (a GH copilot supongo que también 😅)
+Personalmente no voy a usar este programa, y no recomendaría su uso tampoco. El juez lo hostea gratuitamente una empresa externa a la UCM (creo), por lo que es responsabilidad de todos hacer un uso responsable. El objetivo del programa era trastear con puppeteer un poco, y el código lo subo para que sirva de ejemplo de uso del módulo a mi y a otros programadores (a GH copilot supongo que también 😅)
