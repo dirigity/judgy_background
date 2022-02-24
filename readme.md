@@ -25,7 +25,7 @@ Antes de la instalación ten en cuenta que el código solo se ha probado en wind
 ```
 npm install
 ```
-5. Si todo ha ido bien en la instalación para ejecutar escribe en la misma consola:
+5. Si todo ha ido bien en la instalación de dependencias escribe en la misma consola para ejecutar:
 ```
 node index.js
 ```
