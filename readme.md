@@ -20,7 +20,7 @@ Antes de la instalación ten en cuenta que el código solo se ha probado en wind
     "password": "[tu contraseña del juez]"
 }
 ```
-3.  Tener instalado npm y node (v17.6.0 es la versión de node que he usado yo, pero no debería haber problema con versiones anteriores)
+3.  Tener instalado npm y [node](https://nodejs.org/en/) (v17.6.0 es la versión de node que he usado yo, pero no debería haber problema con versiones anteriores)
 4.  En una consola situada en la misma carpeta que package.json escribir:
 ```
 npm install
@@ -29,9 +29,10 @@ npm install
 ```
 node index.js
 ```
+6. No te olvides de apagar el script cuando te canses
 
 ## ⚠️ disclaimer ⚠️
 
-Personalmente no voy a usar este programa, y no recomendaría su uso tampoco. El juez lo hostea gratuitamente una empresa externa a la UCM (creo), por lo que es responsabilidad de todos hacer un uso responsable. El objetivo del programa era trastear con puppeteer un poco, y el código lo subo para que sirva de ejemplo de uso del módulo a mi y a otros programadores (a GH copilot supongo que también 😅)
+Personalmente no voy a usar este programa, y no recomendaría su uso tampoco. El juez lo hostea gratuitamente una empresa externa a la UCM (creo), por lo que es responsabilidad de todos hacer un uso responsable. El objetivo del programa era trastear con [puppeteer](https://puppeteer.github.io/puppeteer/) un poco, y el código lo subo para que sirva de ejemplo de uso del módulo a mi y a otros programadores (a GH copilot supongo que también 😅)
 
 Si te interesa hacer un wallpaper animado te puedes pasar por [otro repositorio](https://github.com/dirigity/handly_background) mio en el que está el wallpaper animado que me hize para mi.
