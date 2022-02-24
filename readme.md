@@ -9,6 +9,8 @@ En mi clase de estructuras de datos tenemos un juez online que nos corrige los e
 
 ## instalación
 
+Antes de la instalación ten en cuenta que el código solo se ha probado en windows 10. De todas formas estoy bastante seguro de que en linux y en OSX debería funcionar.
+
 1. Clonar el repo o descargar el .zip en cualquier sitio
 2. Crear un archivo "secrets.json" en la misma carpeta que el index.js con el siguiente contenido:
 
